@@ -1,0 +1,10 @@
+C:\Users\Aspire ES 11\source\repos\Simple Pendulum 1\Simple Pendulum 1\bin\Debug\Simple Pendulum 1.exe.config
+C:\Users\Aspire ES 11\source\repos\Simple Pendulum 1\Simple Pendulum 1\bin\Debug\Simple Pendulum 1.exe
+C:\Users\Aspire ES 11\source\repos\Simple Pendulum 1\Simple Pendulum 1\bin\Debug\Simple Pendulum 1.pdb
+C:\Users\Aspire ES 11\source\repos\Simple Pendulum 1\Simple Pendulum 1\obj\Debug\Simple Pendulum 1.csprojAssemblyReference.cache
+C:\Users\Aspire ES 11\source\repos\Simple Pendulum 1\Simple Pendulum 1\obj\Debug\Simple_Pendulum_1.Form1.resources
+C:\Users\Aspire ES 11\source\repos\Simple Pendulum 1\Simple Pendulum 1\obj\Debug\Simple_Pendulum_1.Properties.Resources.resources
+C:\Users\Aspire ES 11\source\repos\Simple Pendulum 1\Simple Pendulum 1\obj\Debug\Simple Pendulum 1.csproj.GenerateResource.cache
+C:\Users\Aspire ES 11\source\repos\Simple Pendulum 1\Simple Pendulum 1\obj\Debug\Simple Pendulum 1.csproj.CoreCompileInputs.cache
+C:\Users\Aspire ES 11\source\repos\Simple Pendulum 1\Simple Pendulum 1\obj\Debug\Simple Pendulum 1.exe
+C:\Users\Aspire ES 11\source\repos\Simple Pendulum 1\Simple Pendulum 1\obj\Debug\Simple Pendulum 1.pdb
